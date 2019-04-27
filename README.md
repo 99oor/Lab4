@@ -64,6 +64,7 @@ public class Preference extends PreferenceFragment {
         //从xml文件中加载选项
         addPreferencesFromResource(R.xml.preference);
     }
+    
 }
 
 ### Preference.xml
